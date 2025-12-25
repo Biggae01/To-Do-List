@@ -15,7 +15,7 @@ A simple, elegant todo list application with local storage persistence.
 
 ## 🚀 Demo
 
-[Live Demo](https://yourusername.github.io/todo-app)
+[Live Demo](https://github.com/Biggae01/To-Do-List)
 
 ## 📸 Screenshots
 
@@ -35,7 +35,7 @@ A simple, elegant todo list application with local storage persistence.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Biggae01/To-Do-List.git
 ```
 
 2. Navigate to project folder
@@ -45,7 +45,7 @@ cd todo-app
 
 3. Open in browser
 ```bash
-# Just open index.html in your browser
+# Just open todo.html in your browser
 # or use Live Server in VS Code
 ```
 
@@ -60,11 +60,11 @@ cd todo-app
 ## 📁 Project Structure
 ```
 todo-app/
-├── index.html          # Main HTML file
+├── todo.html          # Main HTML file
 ├── css/
-│   └── style.css       # Styles
+│   └── todo.css       # Styles
 ├── js/
-│   └── app.js          # JavaScript logic
+│   └── todo.js          # JavaScript logic
 ├── images/
 │   └── screenshot.png
 └── README.md
@@ -94,7 +94,7 @@ All tasks are saved in your browser's local storage. They'll still be there when
 
 ## 🐛 Known Issues
 
-- None at the moment! Report issues [here](https://github.com/yourusername/todo-app/issues)
+- None at the moment! Report issues [here](https://github.com/Biggae01/To-Do-List/issues)
 
 ## 🤝 Contributing
 
@@ -112,10 +112,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Edwin Mwansa**
+- GitHub: [@Biggae01](https://github.com/Biggae01)
+- LinkedIn: [Edwin Mwansa](https://www.linkedin.com/in/edwin-mwansa-b4042223a/)
+- Email: edwinmwansa80@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Edwin Mwansa]
