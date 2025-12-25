@@ -40,7 +40,7 @@ git clone https://github.com/Biggae01/To-Do-List.git
 
 2. Navigate to project folder
 ```bash
-cd todo-app
+cd To-Do-List
 ```
 
 3. Open in browser
